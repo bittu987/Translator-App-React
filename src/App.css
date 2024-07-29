@@ -1,0 +1,43 @@
+.Container{
+  
+   width: 30vw;
+   height: max-content;
+   margin-top: 10%;
+}
+
+.drop-down{
+  text-align: center  ;
+  margin-bottom: 20px;
+}
+
+select{
+  margin-right: 15px;
+  outline: none;
+}
+
+textarea{
+  outline: none;
+  padding: 5px;
+}
+
+
+
+button{
+  margin-top: 2%;
+  background-color:cadetblue;
+  color: white;
+  padding: 7px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}
+
+button:active{
+  padding: 8px 19px;
+}
+
+
+h2{
+  text-align: center;
+  margin-bottom: 19px;
+}
